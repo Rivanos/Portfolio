@@ -3,14 +3,7 @@
 Je suis un développeur web. J'ai appris et créer deux sites en autodidacte. Puis j'ai recherché un cadre dans lequel apprendre. Je me suis donc dirigé vers Becode.org, une organisation non-scolaire ou l'apprentisage des différents langagues webs se fait via l'apprentisage du travail de groupe. C'est donc dans cette organisation que j'ai appris à coder correctement en MARKDOWN, HTML , CSS (BOOTSTRAP, MEDIA QUERIES, REPSONSIVE), JAVASCRIPT (JQUERY), PHP. Je sais utilisé Github et ses outils. Mais
 j'ai aussi appris le respect de l'autre et de son travail. Je pense qu'il est temps de jeter un oeil à mon travail.
 
------------------
-```
-
-<h1>Programmer :</h1>
-  <p>Machine that turns coffee into code</p>
-
-```
------------------
+![alt text](becodeorg.png)
 
 ### Mes créations de website
 
@@ -31,6 +24,20 @@ Dans le cadre de la formation nous concevons un site internet pour un client. Co
 
 Il s'agit d'un travail de groupe. Je suis le Git Master du groupe et le site est concu en PHP bootstrapé. [Repo](https://github.com/Rivanos/projet-client-connectbx)
 
+-----------------
+```
+
+<h1>Programmer :</h1>
+  <p>Machine that turns coffee into code</p>
+
+```
+
 ### Mes créations de PHP
 
 J'ai aussi créer une [fonction de pagination](https://github.com/Rivanos/Function_Pagination) en PHP
+
+-----------------
+
+## Mes attentes
+
+Il y a quelque temps je me suis proposé pour faire le site internet dans mon ASBL. J'ai alors découvert le monde du coding. C'est alors que je me suis trouvé une réel joie dans la construction de code. Pour l'instant j'aimerai découvrir un maximun de languages de programmation, d'ou ma formation, et par la suite trouver un langagues qui me plait tant par sa beauté que sa complexecité et me spécialisé dedans. Mais j'aimerai aussi trouver un chouette projet dans lequel je pourrai avancer tant personnellement que professionnellement.
