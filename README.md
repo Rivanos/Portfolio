@@ -13,13 +13,7 @@ MAIS, assez parlé !!! Il est temps de découvrir mon travail.
 ![alt text](becodeorg.png)
 
 ### Mes créations de website
-
-Mes créations de Website (avant ma formation chez Becode):
-1. [Sambodha Asbl](http://www.sambodha.be/)
-2. [Zen@home](http://www.zenhome.sambodha.be/)
-3. [Catalogue de Zen@home](http://www.zenhome.sambodha.be/Ecommerce/)
-
-Mes travaux actuels (pendant ma formation chez Becode )
+Mes travaux actuels (pendant ma formation chez Becode en 2017)
 
 J’ai pu acquérir les bonnes manières de coding HTML, CSS.
 
@@ -35,6 +29,12 @@ Ci-dessous, la liste des travaux généralises :
 Dans le cadre de la formation nous concevons un site internet pour un client. ConnectBX est une association qui regroupe toutes les autres associations de Bruxelles permettant aux jeunes de pouvoir trouver l'association de leur choix dans laquelle faire du Bénévolat.
 
 Il s'agit d'un travail de groupe. Je suis le Git Master du groupe et le site est concu en PHP bootstrapé. [Repo](https://github.com/Rivanos/projet-client-connectbx)
+
+
+Mes créations de Website (avant ma formation chez Becode en 2016):
+1. [Sambodha Asbl](http://www.sambodha.be/)
+2. [Zen@home](http://www.zenhome.sambodha.be/)
+3. [Catalogue de Zen@home](http://www.zenhome.sambodha.be/Ecommerce/)
 
 -----------------
 ```
