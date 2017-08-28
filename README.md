@@ -32,8 +32,8 @@ Il s'agit d'un travail de groupe. Je suis le Git Master du groupe et le site est
 
 
 Mes créations de Website (avant ma formation chez Becode en 2016):
-1. [Sambodha Asbl](http://www.sambodha.be/)
-2. [Zen@home](http://www.zenhome.sambodha.be/)
+1. [Sambodha Asbl] En cours de refonte graphique (http://www.sambodha.be/)
+2. [Zen@home] En cours de refonte graphique (http://www.zenhome.sambodha.be/)
 3. [Catalogue de Zen@home](http://www.zenhome.sambodha.be/Ecommerce/)
 
 -----------------
